@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <!-- CHARACTER CREATION -->
+    <!-- Old versions - probably remove. The string_id is identical to the strings in Native\Module_Data\strings.xml
+  	<string id="str_culture_description.vlandia" text="{=base.strings.string.text.str_culture_description.vlandia}The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a cast of warlike nobles who prefer to fight with spears and lances on horseback." />
+    <string id="str_culture_description.battania" text="{=base.strings.string.text.str_culture_description.battania}The Battanians still remember the olden days when the woods stretched across northern Calradia, and the Empire and its cities had yet to violate their sanctity. The fierce warriors remain loyal to their traditional ways. They paint their faces when going to battle and even their noblemen prefer to fight on foot while using great axes and two-handed swords with deadly efficiency." />
+    <string id="str_culture_description.khuzait" text="{=base.strings.string.text.str_culture_description.khuzait}The Khuzait confederation of steppe tribes used to live a nomadic life, but have recently settled in the eastern frontier of the Empire and are slowly transitioning into an agrarian society with permanent town centers. Despite this, they still retain many aspects of their nomadic life, including their affinity with horses. They are masters of mounted archery, shooting and then galluping out of reach."  />
+    <string id="str_culture_description.sturgia" text="{=base.strings.string.text.str_culture_description.sturgia}Sturgians are the descendants of the foreign tribes of northern Calradia. As the empire expanded into their cold forests, they found that a ready market for the luxurious furs of woodland animals whom they traditionally hunted and trapped. Sturgian chieftains became princes, vying for pre-eminence with the help of Nord mercenaries who migrated into their realm. They are good hunters and wanderers, travelling far in search of opportunies both for trade and for plunder." />
+    <string id="str_culture_description.aserai" text="{=base.strings.string.text.str_culture_description.aserai}The Aserai are the inhabitants of the Nahasa desert, a mixture of nomadic bedouin and settled oasis farmers. They are famous for their horsemanship and their knowledge of the learning of many lands, especially medicine, gained from lying on some of the continent's most lucrative trade routes. Each clan is fiercely proud of its lineage and often jealous of the others, but when united by a charismatic leader, they become a major force in the south." />
+    <string id="str_culture_description.empire" text="{=base.strings.string.text.str_culture_description.empire}The Calradian Empire is in decline. Even before the murder of the Emperor Arenicos, the once united realm was torn by political rivalries. Today, those factions are in open war. Yet Calradians endure. They are technologically more advanced than their neighbors and their mastery of engineering is not just evident in their aqueducts, beautiful architecture and massive city walls. It also makes them experts in siege warfare." />
+    -->
+    <string id="str_char_creation_generic_selection" text="{=yCEMiKjB}Choose your {SELECTION}" />
+    <string id="str_player_brother_name.vlandia" text="{=dFpNRB1g}Nogand" />
+    <string id="str_player_brother_name.battania" text="{=C8NDynaB}Niasen" />
+    <string id="str_player_brother_name.khuzait" text="{=JDtbzwB0}Nusun" />
+    <string id="str_player_brother_name.sturgia" text="{=CaCfbRJq}Nozhon" />
+    <string id="str_player_brother_name.aserai" text="{=m2uEbrkh}Najun" />
+    <string id="str_player_brother_name.empire" text="{=4kBdT24F}Nathanos" />
+    <string id="str_player_little_brother_name.vlandia" text="{=8YvBapxl}Varic" />
+    <string id="str_player_little_brother_name.battania" text="{=w4Ajm40u}Faroc" />
+    <string id="str_player_little_brother_name.khuzait" text="{=WTF4ZIe7}Jatu" />
+    <string id="str_player_little_brother_name.sturgia" text="{=NWxC3CbS}Fodor" />
+    <string id="str_player_little_brother_name.aserai" text="{=at4MdVBJ}Fathid" />
+    <string id="str_player_little_brother_name.empire" text="{=CONYULU6}Phasos" />
+    <string id="str_player_little_sister_name.vlandia" text="{=3Y5dudW9}Alda" />
+    <string id="str_player_little_sister_name.battania" text="{=IcBq2jSZ}Aitheen" />
+    <string id="str_player_little_sister_name.khuzait" text="{=MgBazeaE}Alte" />
+    <string id="str_player_little_sister_name.sturgia" text="{=pAf5Mt3X}Alishka" />
+    <string id="str_player_little_sister_name.aserai" text="{=q65JaEBW}Alya" />
+    <string id="str_player_little_sister_name.empire" text="{=OA9bQ8QJ}Alea" />
+    <string id="str_tutorial_Bow" text="{=8UUV94Lq}Ranged Training" />
+    <string id="str_tutorial_Melee" text="{=qNrWU4Or}Melee Training" />
+    <string id="str_tutorial_Mounted" text="{=P7KbSBvr}Mounted Training" />
+    <string id="str_tutorial_AdvancedMelee" text="{=D0SoDPcr}Advanced Melee Training" />
+    <string id="str_tutorial_ranged_bow" text="{=gUvxp8mf}Bow Training" />
+    <string id="str_tutorial_ranged_javelin" text="{=okM9QUFA}Javelin Training" />
+    <string id="str_tutorial_ranged_crossbow" text="{=d0LpBfis}Crossbow Training" />
+    <string id="str_tutorial_melee_sword" text="{=5bYwdRFs}Sword Training" />
+    <string id="str_tutorial_melee_shield" text="{=GjGF4xbn}Shield Training" />
+    <string id="str_tutorial_melee_go_to_trainer" text="{=q71nXdD4}Go to trainer" />
+    <string id="str_tutorial_mounted_melee" text="{=MqeQco4z}Mounted Spear Training" />
+    <string id="str_tutorial_mounted_bow" text="{=9YqwNQPO}Mounted Ranged Training" />
+    <string id="str_tutorial_mounted_sword_and_shield" text="{=elRQHiLR}Mounted Sword Training" />
+    <string id="str_tutorial_mounted_mount_the_horse" text="{=L24eYhaX}Mount the horse" />
+    <string id="str_tutorial_mounted_hit_targets" text="{=jWvle1tC}Finish the track and hit targets as many as you can ({HIT} / {ALL})" />
+    <string id="str_tutorial_advmelee_swordshield" text="{=uW4htMut}With Sword and Shield" />
+    <string id="str_tutorial_adv_melee_go_to_trainer" text="{=q71nXdD4}Go to trainer" />
+    <string id="str_tutorial_adv_melee_beat_easy_trainer" text="{=ajo9KQpr}Beat rookie trainer" />
+    <string id="str_tutorial_adv_melee_go_to_normal_trainer" text="{=L0tOoWpV}Go to normal trainer" />
+    <string id="str_tutorial_adv_melee_beat_normal_trainer" text="{=MUEaqlix}Beat veteran trainer" />
+    <string id="str_tutorial_ranged_go_to_shooting_position" text="{=kwW6v202}Go to shooting position" />
+    <string id="str_tutorial_advmelee_2hsword" text="{=OJmYUcaU}With Sword" />
+    <string id="str_tutorial_advmelee_spearshield" text="{=z9eC5hjv}With Spear and Shield" />
+    <string id="str_tutorial_ranged_shoot_targets" text="{=lN1RQ260}Shoot targets ({HIT} / {ALL})" />
+    <string id="str_tutorial_melee_defense" text="{=ZozwfwVl}Defend yourself ({HIT} / {ALL})" />
+    <string id="str_tutorial_melee_attack" text="{=LGuJctoZ}Attack to trainer ({HIT} / {ALL})" />
+    <string id="str_tutorial_melee_sword_shield_training_description" text="{=atWs6mkm}Sword and Shield Training" />
+    <string id="str_tutorial_melee_sword_training_description" text="{=5bYwdRFs}Sword Training" />
+    <string id="str_tutorial_advmelee_training_description" text="{=QHhdmvLj}Combat Training" />
+    <string id="str_tutorial_mounted_spear_training_description" text="{=MqeQco4z}Mounted Spear Training" />
+    <string id="str_tutorial_mounted_melee_training_description" text="{=elRQHiLR}Mounted Sword Training" />
+    <string id="str_tutorial_mounted_bow_training_description" text="{=tZtrK3cs}Horse Archery Training" />
+    <string id="str_tutorial_crossbow_training_description" text="{=d0LpBfis}Crossbow Training" />
+    <string id="str_tutorial_bow_training_description" text="{=gUvxp8mf}Bow Training" />
+    <string id="str_tutorial_javelin_training_description" text="{=okM9QUFA}Javelin Training" />
+    <string id="str_tutorial_time_score" text="{=Xr50xGhr} ({TIME_SCORE} seconds)" />
+    <string id="str_destructible_component.archery_target_pot" text="{=7xHMIZEP}Practice Target" />
+    <string id="str_destructible_component.pot_archery_target_breakable" text="{=7xHMIZEP}Practice Target" />
+    <string id="str_destructible_component.archery_practice_target" text="{=7xHMIZEP}Practice Target" />
+    <!-- //CHARACTER CREATION -->
+    <!--Tutorial Box Texts-->
+    <string id="str_campaign_tutorial_title.EnterVillageTutorial" text="{=oj7B1GOT}Entering Settlements" />
+    <string id="str_campaign_tutorial_description.EnterVillageTutorial" text="{=3nilwlcM}You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left." />
+    <string id="str_campaign_tutorial_title.NavigateOnMapTutorialStep1" text="{=3RqEmB15}Navigating Calradia" />
+    <string id="str_campaign_tutorial_description.NavigateOnMapTutorialStep1" text="{=f6xYa3c4}Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with WASD, panning your view by right clicking and dragging your mouse and zooming in and out with the mouse wheel.{newline}{newline}Give it a try." />
+    <string id="str_campaign_tutorial_title.NavigateOnMapTutorialStep2" text="{=3RqEmB15}Navigating Calradia" />
+    <string id="str_campaign_tutorial_description.NavigateOnMapTutorialStep2" text="{=odbkXZkz}Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="str_campaign_tutorial_title.SeeMarkersInMissionTutorial" text="{=jLWPSiOR}Speak to the Headman" />
+    <string id="str_campaign_tutorial_description.SeeMarkersInMissionTutorial" text="{=qXv3BY5v}You can hold &quot;Left Alt&quot; key to see the location of the Headman.{newline}{newline}Once you are near him, press F to speak with him." />
+    <string id="str_campaign_tutorial_title.PressLeaveToReturnFromMissionType1" text="{=wq9sNkMc}Leaving a Mission" />
+    <string id="str_campaign_tutorial_description.PressLeaveToReturnFromMissionType1" text="{=eFc6YuzQ}To leave a mission, you can hold down the &quot;Tab&quot; key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
+    <string id="str_campaign_tutorial_title.GetSuppliesTutorialStep1" text="{=cZsPNpCs}Buying Food" />
+    <string id="str_campaign_tutorial_description.GetSuppliesTutorialStep1" text="{=B7WlM3CU}You should purchase supplies from the settlement menu on the left." />
+    <string id="str_campaign_tutorial_title.GetSuppliesTutorialStep2" text="{=cZsPNpCs}Buying Food" />
+    <string id="str_campaign_tutorial_description.GetSuppliesTutorialStep2" text="{=3YkpC9Nf}You can filter Items through buttons at the top. Filter them to Misc." />
+    <string id="str_campaign_tutorial_title.GetSuppliesTutorialStep3" text="{=cZsPNpCs}Buying Food" />
+    <string id="str_campaign_tutorial_description.GetSuppliesTutorialStep3" text="{=CpKLau15}Your brother recommends that you purchase 2 sacks of grain.{newline}{newline}You can do this by transferring them to your inventory with the little arrow on the left side" />
+    <string id="str_campaign_tutorial_title.PressLeaveToReturnFromMissionType2" text="{=wq9sNkMc}Leaving a Mission" />
+    <string id="str_campaign_tutorial_description.PressLeaveToReturnFromMissionType2" text="{=K0f6WLjV}To leave a mission, you can hold down the Tab key.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits." />
+    <string id="str_campaign_tutorial_title.GetQuestTutorial" text="{=KUEHAD4U}Quests" />
+    <string id="str_campaign_tutorial_description.GetQuestTutorial" text="{=5M48atXU}You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen." />
+    <string id="str_campaign_tutorial_title.TakeAndRescuePrisonerTutorial" text="{=ZW9OGfEt}Rescuing &amp; Taking Prisoners" />
+    <string id="str_campaign_tutorial_description.TakeAndRescuePrisonerTutorial" text="{=rLEIuqZO}After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left." />
+    <string id="str_campaign_tutorial_title.RecruitmentTutorialStep1" text="{=fpdXZ0fl}Recruitment" />
+    <string id="str_campaign_tutorial_description.RecruitmentTutorialStep1" text="{=Rvn8tGB0}Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button." />
+    <string id="str_campaign_tutorial_title.RecruitmentTutorialStep2" text="{=fpdXZ0fl}Recruitment" />
+    <string id="str_campaign_tutorial_description.RecruitmentTutorialStep2" text="{=ddoD208G}Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Click on some troops to move them into your party." />
+    <string id="str_campaign_tutorial_title.TalkToNotableTutorialStep1" text="{=axnDLcDA}Talk to the headman" />
+    <string id="str_campaign_tutorial_description.TalkToNotableTutorialStep1" text="{=LS1whiyj}The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him." />
+    <string id="str_campaign_tutorial_title.TalkToNotableTutorialStep2" text="{=axnDLcDA}Talk to the headman" />
+    <string id="str_campaign_tutorial_description.TalkToNotableTutorialStep2" text="{=xCHBC7S9}Click on the &quot;Visit&quot; button to return to the notable and learn more about the task ahead." />
+    <string id="str_campaign_tutorial_title.OrderTutorial1TutorialStep1" text="{=x4xx1Zd6}Battle Commands" />
+    <string id="str_campaign_tutorial_description.OrderTutorial1TutorialStep1" text="{=FFP17aSl}At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the movement orders with &quot;F1&quot; and choosing &quot;Follow Me&quot; with &quot;F2&quot;." />
+    <string id="str_campaign_tutorial_title.OrderTutorial1TutorialStep2" text="{=x4xx1Zd6}Battle Commands" />
+    <string id="str_campaign_tutorial_description.OrderTutorial1TutorialStep2" text="{=OFNEE8Xr}You can tell your men to charge by opening the movement orders with &quot;F1&quot; and choosing charge with &quot;F3&quot;." />
+    <string id="str_campaign_tutorial_title.OrderTutorial2Tutorial" text="{=mfugkRoz}Hideouts &amp; Orders" />
+    <string id="str_campaign_tutorial_description.OrderTutorial2Tutorial" text="{=WjuwOavt}Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the &quot;F1&quot; and &quot;F2&quot; shortcuts and try to take them on in small groups." />
+    <string id="str_campaign_tutorial_title.MovementInMissionTutorial" text="{=KiJd6Xik}Movement" />
+    <string id="str_campaign_tutorial_description.MovementInMissionTutorial" text="{=Il7C9LQG}You can move your character:{newline}- Forwards with [W]{newline}- Backwards with [S]{newline}- Left with [A]{newline}- Right with [D]{newline}{newline}Try them all now!" />
+    <!--//Tutorial Box Texts-->
+  </strings>
+</base>

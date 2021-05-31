@@ -1,0 +1,22 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "express": "^4.17.1",
+    "express-zip": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "util": "^0.12.4",
+    "xml2json": "^0.12.0"
+  }
+}
